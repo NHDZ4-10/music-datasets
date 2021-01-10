@@ -22,9 +22,6 @@
 "sing_mv_num"	mv数
 "sing_album_num"	专辑数
 "sing_url"	图片来源
-#### song_lysic_mess_all包含以下信息：
-"song_id"	歌曲id
-"song_lysic"	歌词
 #### song_mess_all包含以下信息：
 "song_id"	歌曲id
 "song_name"	歌曲名称	
